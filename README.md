@@ -39,3 +39,5 @@ There are basically three options for creating and updating Github accounts.
 5. [FiveThirtyEight](https://github.com/FiveThirtyEight) (Not sure if it's being updated.)
 
 *Hint*: A lot of newsrooms have Github accounts and you can probably guess their username.
+
+This is a change suggested by Richard
